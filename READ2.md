@@ -1,3 +1,9 @@
+Go to [Back-end](https://github.com/zaidShishani/city-explorer-api).
+
+Go to [Front-end ](https://github.com/zaidShishani/city-explore).
+
+ Go to the website [Live URL ](https://city-exploer-zaid.netlify.app).
+
 # Investigating APIs
 
 I will be Investigating the APIs I used in city-explorer, I have used 3 different APIs in this project :
@@ -60,3 +66,5 @@ References:
 * <https://www.themoviedb.org/about> - TMBD
 * <https://locationiq.com/about> - LocationIQ
 * <https://www.weatherbit.io/api> - Weatherbit
+
+
